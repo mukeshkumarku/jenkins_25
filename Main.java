@@ -9,5 +9,8 @@ public class Main {
 
         System.out.println("Hello, World!hhhhhhhh5555555");
 
+       Student student = new Student();
+        student.study();
+        student.studyStd(); 
     }
 }
